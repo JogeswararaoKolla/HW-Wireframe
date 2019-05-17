@@ -1,0 +1,17 @@
+header,nav,section,aside,footer {
+    background-color:#ebebeb;
+    text-align: center;
+    border: 1px solid green;
+    height: 100px;
+    width:960px;
+}
+
+h1,p {
+    background-color: #ebebeb;
+    color: #777;
+    border:10px solid teal;
+}
+
+div h1,h2,h3{
+    text-align: center;
+}
